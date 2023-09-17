@@ -1,4 +1,4 @@
-# seminar8
+# seminar7
 
 ## Project setup
 ```
